@@ -1,14 +1,14 @@
-# 👋 Привет, я Рома
+# 👋 Привет, я razetka | Артём
 
-**Fullstack-разработчик**
+**разработчик**
 
 📍 Россия  
 💼 Доступен для проектов и сотрудничества
 
 ## 🔗 Связь
 - **🌐 Сайт:** [razetka2010.github.io/Business-card-website](https://razetka2010.github.io/Business-card-website/)
-- **📧 Email:** ваш.email@example.com
-- **📱 Telegram:** @your_username
+- **📧 Email:** raz_etka_2010@mail.ru
+- **📱 Telegram:** @dapogkakto
 
 ## 🛠 Технологии
 ```python
